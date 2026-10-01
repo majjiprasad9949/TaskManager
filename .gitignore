@@ -1,0 +1,21 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET build files
+**/bin/
+**/obj/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+task-manager-client/node_modules/
+task-manager-client/dist/
+
+# Environment files
+.env
+.env.*
